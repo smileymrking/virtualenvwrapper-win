@@ -27,6 +27,7 @@ scripts = [
     'toggleglobalsitepackages.bat',
     'whereis.bat',
     'workon.bat',
+    'workon.ps1',
     'virtualenvwrapper.bat',
     'vwenv.bat',
 ]
